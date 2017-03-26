@@ -1,0 +1,19 @@
+{
+  "name": "welschesbier.lambda",
+  "version": "1.0.0",
+  "description": "Alexa lamdba function to get drink selection advice",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Alexa",
+    "Lambda"
+  ],
+  "author": "Anders Weijnitz",
+  "license": "MIT"
+}
