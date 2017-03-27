@@ -1,5 +1,5 @@
 {
-  "name": "welschesbier.lambda",
+  "name": "bierRatgeber.lambda",
   "version": "1.0.0",
   "description": "Alexa lamdba function to get drink selection advice",
   "main": "index.js",
